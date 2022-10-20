@@ -1,0 +1,6 @@
+package com.yahoo.avriljeanmarc.eprobi
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

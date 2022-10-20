@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "856418603747",
+    "project_id": "eprobi-123",
+    "storage_bucket": "eprobi-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856418603747:android:cb630d2773aa488081abd6",
+        "android_client_info": {
+          "package_name": "com.yahoo.avriljeanmarc.eprobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856418603747-emegnu2mvigp9f1h237bf1rq6mcrcsd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRP4TLCKwMAswaoNo7nRCgrTiE-7Y3KhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856418603747-emegnu2mvigp9f1h237bf1rq6mcrcsd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856418603747-oc8jjgqcuegkku45cr4cb3s9jkb3n548.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yahoo.avriljeanmarc.eprobi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

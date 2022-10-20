@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>856418603747-oc8jjgqcuegkku45cr4cb3s9jkb3n548.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.856418603747-oc8jjgqcuegkku45cr4cb3s9jkb3n548</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAdxsKrhF-7f8manGbcA0FQ866TEQklx0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>856418603747</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yahoo.avriljeanmarc.eprobi</string>
+	<key>PROJECT_ID</key>
+	<string>eprobi-123</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eprobi-123.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:856418603747:ios:376a4b03c51b4dc281abd6</string>
+</dict>
+</plist>
